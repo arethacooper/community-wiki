@@ -1,30 +1,30 @@
 # 🎯 Start here
 
 {% hint style="success" %}
-**Welcome to the Programmable Banking Wiki!** This GitBook acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
+**Welcome to the Programmable Banking Wiki!** This acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
 {% endhint %}
 
 {% hint style="info" %}
-We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎&#x20;
+We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also share our learnings and have fun on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎&#x20;
 {% endhint %}
 
 ## ✨ About
 
-**The Programmable Banking Community** is a community of 500+ software devs on a mission.
+**The Programmable Banking Community** has 500+ software devs on a mission.
 
 We want to make Programmable Banking a reality for South African developers and businesses: by building open source tech with Investec Programmable Banking foundations. [Learn more](https://www.offerzen.com/community/investec/).
 
 **The purpose of the community is threefold:**
 
 1. Share ideas and code to help each other unlock the potential of Programmable Banking.
-2. Give the Investec Product Team honest and critical feedback on what we want to improve.
-3. Get the businesses where we work to build commercial value with [Programmable Business Banking](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000).
+2. Give the Investec Product Team honest and critical feedback to improve the Programmable Banking product.
+3. Create commercial value for your businesses using [Programmable Business Banking](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000).
 
 ## 🎯 Do this first
 
-You are going to encounter new ideas, inspiration and a treasure trove of helpful tools you never knew you had available. Stick with us, trust the process and start with;
+You are going to encounter new ideas, inspiration and a treasure trove of helpful tools. Trust the process and start with:
 
-* [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat) & get some swag! 👕
+* [ ] [Book a Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat) to find out more & get some OfferZen swag! 👕
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
@@ -32,18 +32,18 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
 
 {% tabs %}
-{% tab title="🦄    What" %}
+{% tab title="🦄     What" %}
 * 🤩 [Community Manifesto](community-manifesto.md)
-* 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
+* 🛠  [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
 * 📚 [Blog Posts](blog-posts.md)
 * 🦓 [New Feature Requests](https://programmable-banking-community.canny.io)
 {% endtab %}
 
-{% tab title="🛠   How" %}
+{% tab title="🛠    How" %}
 * 👨‍💻 [Developer Docs](https://developer.investec.com/programmable-banking/#programmable-banking)
 * 🧳 [Use Cases](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000)
 * 🤯 [Use Case Ideas](use-cases.md)
-* 🚀 [Passed Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
+* 🚀 [Past Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
 * **🙋‍♂️** [Submit issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 {% endtab %}
 
@@ -51,7 +51,6 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * 😁 [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
 * 🎉 [Events/ Meetups](https://lu.ma/ipb-community)
 * 🎥 [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
-* 🤔 [Discourse forum](https://community.offerzen.com/c/programmable-banking/5)
 * 🤙 [Contact Core team](mailto:community-investec@offerzen.com)
 {% endtab %}
 {% endtabs %}
