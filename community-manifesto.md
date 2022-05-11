@@ -6,7 +6,7 @@ In 2017, [we announced Root:](https://www.offerzen.com/blog/building-a-programma
 
 There weren’t many banks that understood the power of programmable money, and it’s still hard to find them. Our original strategy was to build a completely new bank. As it turns out, building a bank is hard and expensive (no jokes).
 
-In early 2019, Investec approached the OfferZen team to talk about their mission to invest in the tech sector. Like us, they believe strongly that [software can fundamentally accelerate South Africa’s economic growth](https://www.offerzen.com/blog/rise-of-the-programmers-why-power-is-shifting-to-developers), and want to help developers in South Africa to achieve this. Over the following months, we worked together to figure out how we could [partner to make programmable banking a reality](https://www.youtube.com/watch?v=PcU0aT5ckDM\&ab\_channel=OfferZen) for South African developers.
+In early 2019, Investec approached the OfferZen team to talk about their mission to invest in the tech sector. Like us, they strongly believe that [software can fundamentally accelerate South Africa’s economic growth](https://www.offerzen.com/blog/rise-of-the-programmers-why-power-is-shifting-to-developers), and want to help developers to achieve this. Over the following months, we worked together to figure out how we could [partner to make programmable banking a reality](https://www.youtube.com/watch?v=PcU0aT5ckDM\&ab\_channel=OfferZen) for South African developers.
 
 In December 2019, Investec launched the programmable banking beta at OfferZen’s MERGE conference and we started to build the programmable banking community to get feedback and support from the tech community.
 
@@ -28,7 +28,7 @@ And we do this in a few simple ways.
 
 ## Core Principles and Values:
 
-The Programmable Banking Community’s overall principles are guided and influenced both by [OfferZens](https://www.offerzen.com/blog/we-built-root-a-fully-programmable-bank-account-and-card-for-developers)’ and [Investec’s](https://www.investec.com/en\_gb/welcome-to-investec/about-us.html) values and adapted and moulded by the developers in the Community.
+The Programmable Banking Community’s overall principles are guided and influenced both by [OfferZen's](https://www.offerzen.com/blog/we-built-root-a-fully-programmable-bank-account-and-card-for-developers) and [Investec’s](https://www.investec.com/en\_gb/welcome-to-investec/about-us.html) values and adapted and moulded by the developers in the Community.
 
 We believe that the following values help create and sustain thriving developer communities.
 
@@ -46,15 +46,15 @@ If you have a question or if you have the answer to a problem that you had, plea
 
 **4. We share what we are working on:**
 
-Sharing your ideas, code, and demos early and openly with the community is encouraged as it promotes collaboration and ideas sharing within the community.
+Sharing your ideas, code, and demos early and openly with the community is encouraged as it promotes collaboration and idea sharing within the community.
 
 **5. We make things that will help the community or others:**
 
-Building something that you share with, and that can benefit, others are always the best way to learn and grow as a community. It empowers you and the community to create things that we couldn’t do alone.
+Building something that you share with, and that can benefit, others is always the best way to learn and grow as a community. It empowers you and the community to create things that we couldn’t do alone.
 
 **6. We help others build things:**
 
-Contributing to existing projects, even in a small way e.g. feedback or ideas, fosters a sense of collaboration and co-creation within the community to build better, faster and more resilient projects.
+Contributing to existing projects, even in a small way (e.g. feedback or ideas), fosters a sense of collaboration and co-creation within the community to build better, faster and more resilient projects.
 
 **7. We ALWAYS have fun building together:**
 
