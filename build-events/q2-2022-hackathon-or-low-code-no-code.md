@@ -1,6 +1,6 @@
 # 💳 2022 Hackathon | low-code/no-code
 
-> [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know in the entry form if you also require access to a live demo/ community account - rather than using your own Investec accoun?.
+> [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know in the entry form if you also require access to a live demo/ community account - rather than using your own Investec account?.
 
 {% hint style="info" %}
 If you are looking to test an API solution locally and quickly, check out this [community shared API simulator](https://github.com/devinpearson/programmable-banking-sim).&#x20;
@@ -45,7 +45,7 @@ You must use the Spreadsheeting banking app in some way in your solution.
 
 #### **What are the prize categories?:**
 
-* Two end-user sponsors will have Ziggy bags filled with R45k of hard grazed cash each to invest in submitted projects and the amounts they see fit.&#x20;
+* Two end-user project sponsors will have Ziggy bags filled with R45k of hard grazed cash each to invest in submitted projects with the amounts they see fit.&#x20;
 * Each Zebra will bid and offer cash to as many submissions as they want to invest in, and each submission chosen will be granted a good faith agreement.&#x20;
   * The participants can **choose to get half the cash for just sharing the idea/ POC build with the community OR can choose to build their project out further for the other half - it’s up to them**. 🤑
   * **If the team decides to carry on building on their solution and take the full offered amount, they will have a 1:1 with the Sponsor** to discuss the next steps as needed for the project.&#x20;
